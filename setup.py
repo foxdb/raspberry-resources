@@ -12,8 +12,8 @@ setup(
     version='0.1.0',
     description='Raspberry Resources',
     long_description=README,
-    author='Ben Schmitt',
-    author_email='bens.schmitt@gmail.com',
+    author='Benjamin Schmitt',
+    author_email='',
     url='https://github.com/foxdb/raspberry-resources',
     license=LICENSE,
     packages=find_packages(exclude=('tests', 'docs'))
